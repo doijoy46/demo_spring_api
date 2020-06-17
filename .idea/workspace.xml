@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4262eede-1cca-428b-bd4b-9221c861e85b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.circleci/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.circleci/config.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -66,7 +65,8 @@
       <workItem from="1592101826781" duration="907000" />
       <workItem from="1592110608695" duration="4314000" />
       <workItem from="1592171266337" duration="1386000" />
-      <workItem from="1592265937049" duration="5084000" />
+      <workItem from="1592265937049" duration="5909000" />
+      <workItem from="1592350656462" duration="4000" />
     </task>
     <servers />
   </component>
@@ -78,7 +78,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
